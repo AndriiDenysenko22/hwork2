@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 
 hwork2_venv/
+.idea/
